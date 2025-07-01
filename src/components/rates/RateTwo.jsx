@@ -1,9 +1,9 @@
 import React from "react";
 
-const rateIcon1 = "/home_2/university_korea.png";
-const rateIcon2 = "/home_2/university_seoul.png";
-const rateIcon3 = "/home_2/university_yensei.png";
-const rateIcon4 = "/home_2/university_KAIST.png";
+const rateIcon1 = "/home_3/university_korea.png";
+const rateIcon2 = "/home_3/university_seoul.png";
+const rateIcon3 = "/home_3/university_yensei.png";
+const rateIcon4 = "/home_3/university_KAIST.png";
 
 export const RateTwo = () => {
   const rating = 5;
