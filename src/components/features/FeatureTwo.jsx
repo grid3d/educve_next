@@ -41,7 +41,7 @@ export const FeatureTwo = () => {
             >
               <div className="td_section_heading td_style_1">
                 <h2 className="td_section_title td_fs_48 mb-0">
-                  수학의 문 학습환경
+                  "수학의 문" 학습환경
                 </h2>
                 <p className="td_section_subtitle td_fs_18 mb-0">
                 20년 노하우가 녹아든 공간 설계로, 머무는 순간마다 학습 효과를 극대화합니다.
